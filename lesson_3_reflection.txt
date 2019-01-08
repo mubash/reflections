@@ -12,3 +12,7 @@ I would add branches if I am trying something experimental and don't want it to 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To avoid too many conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Knowing about Git now, it will be harder to collaborate on anything else now. But,
+if I have to choose, I will use Box or Google drive.
