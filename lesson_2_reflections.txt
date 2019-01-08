@@ -5,3 +5,19 @@ and commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a logical area (manual addition of files to this space) that is prepared for a commit.
 It reduces redundancy in the repository by not keeping tracking files that have not changed since the last commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only adding files with logical changes to staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branch would be helpful when I am adding new features without breaking current working code.
+Branch would also help with porting files from old version of the programming language to newer version.
+
+How do the diagrams help you visualize the branch structure?
+They make it easy to visualize.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It resulted in conflict.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merge is easier, whereas, manual merge is tedious.
