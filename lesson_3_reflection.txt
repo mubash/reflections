@@ -16,3 +16,8 @@ To avoid too many conflicts.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Knowing about Git now, it will be harder to collaborate on anything else now. But,
 if I have to choose, I will use Box or Google drive.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Changes in separate branch makes sense when there is a risk of conflict with other collaborators.
+Separate branch allows each individual collaborator to make their own edits beforing merging it all
+with master.
